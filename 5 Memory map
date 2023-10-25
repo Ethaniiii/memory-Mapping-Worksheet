@@ -1,0 +1,8 @@
+Stack:        |      Heap:       |
+              |                  |
+   zoo -----> | [tiger1]         | 
+              | [elephant2]      | in the heap.
+   copy ----->| [giraffe3]       | 
+              | [monkey4]        |
+              | [ape5]           |
+              |                  |
