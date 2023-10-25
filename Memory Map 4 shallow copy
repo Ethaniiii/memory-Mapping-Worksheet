@@ -1,0 +1,8 @@
+Stack:        |      Heap:       |
+              |                  |
+   zoo -----> | [tiger1]         | zoo points to an array of animal objects
+              | [elephant2]      | in the heap.
+   copy ----->| [giraffe3]       | copy also points to the same array.
+              | [monkey4]        |
+              | [ape5]           |
+              |                  |
