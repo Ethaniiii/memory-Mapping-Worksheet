@@ -1,0 +1,2 @@
+Animal[] zoo = {tiger1, elephant2, giraffe3, monkey4, ape5};
+Animal[] copy = zoo.clone();
