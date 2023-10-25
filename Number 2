@@ -1,0 +1,14 @@
+Stack:        |      Heap:      |
+              |                |
+   y[0] ----->|    [4]         | y[0] points to an array in the heap with 3 elements.
+   y[1] ----->|    [8]         | y[1] points to an array in the heap with 4 elements.
+   y[2] ----->|    [15]        | y[2] points to an array in the heap with 2 elements.
+              |                |
+   y[3] ----->|    [16]        |
+   y[4] ----->|    [23]        |
+   y[5] ----->|    [42]        |
+   y[6] ----->|    [10]        |
+              |                |
+   y[7] ----->|    [8]         |
+   y[8] ----->|    [30]        |
+              |                |
