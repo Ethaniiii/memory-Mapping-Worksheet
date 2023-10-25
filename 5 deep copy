@@ -1,0 +1,6 @@
+Animal[] zoo = {tiger1, elephant2, giraffe3, monkey4, ape5};
+Animal[] copy = new Animal[zoo.length];
+
+for (int i = 0; i < zoo.length; i++) {
+    copy[i] = new Animal(zoo[i]); 
+}
