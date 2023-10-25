@@ -1,0 +1,7 @@
+Stack:        |      Heap:     |
+              |               |
+   z[0] ----->|   "element 0" |
+   z[1] ----->|   "element 1" |
+   z[2] ----->|   "element 2" |
+   z[3] ----->|   "element 3" |
+              |               |
